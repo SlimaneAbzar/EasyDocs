@@ -6,7 +6,7 @@ A full-stack document Q&A app that lets you upload PDFs and ask questions about 
 
 ## Features
 
-- Upload PDFs and ask questions in English, Arabic, or any language
+- Upload PDFs and ask questions in any language
 - Answers cite specific pages so you can verify against the original document
 - Chat sessions are saved so you can return to a conversation later
 - Drag-and-drop file upload
